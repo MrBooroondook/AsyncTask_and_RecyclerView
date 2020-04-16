@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="last_names">
+        <item>Иванов</item>
+        <item>Петров</item>
+        <item>Сидоров</item>
+        <item>Бендер</item>
+        <item>Воробьянинов</item>
+        <item>Балаганов</item>
+        <item>Паниковский</item>
+        <item>Козлевич</item>
+        <item>Кузнецов</item>
+        <item>Попов</item>
+        <item>Соколов</item>
+        <item>Орлов</item>
+        <item>Лебедев</item>
+        <item>Гусев</item>
+        <item>Воробьёв</item>
+        <item>Птичкин</item>
+        <item>Собакин</item>
+        <item>Павлов</item>
+        <item>Козлов</item>
+        <item>Негодяев</item>
+        <item>Сахаров</item>
+        <item>Лимонов</item>
+        <item>Перец</item>
+        <item>Путин</item>
+        <item>Медведев</item>
+        <item>Жириновский</item>
+    </string-array>
+</resources>

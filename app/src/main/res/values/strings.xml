@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">AsyncTask and RecyclerView</string>
+    <string name="fighter_status">Статус бойца</string>
+    <string name="adopted">принят</string>
+    <string name="fired">уволен</string>
+    <string name="end_task">Расчёт окончен</string>
 </resources>
